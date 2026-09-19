@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malaki Bean, an <a href="www.linkedin.com/in/malaki-bean-34948b434">IT Professional</a>☺</h1>
+<h1>Hi, I'm Malaki Bean, an <a href="https://www.linkedin.com/in/malaki-bean-34948b434/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
