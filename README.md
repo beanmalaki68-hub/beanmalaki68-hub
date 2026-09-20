@@ -11,7 +11,7 @@ I’m always looking for the next opportunity to learn, take on a challenge, and
 - <b>Microsoft Azure & Active Diretory</b>
   - [Preparing Active Directory infrastructure within Cloud (Azure)](https://github.com/beanmalaki68-hub/Configuring-Active-Directory-within-Azure)
   - [Deploying Active Diretory](https://github.com/beanmalaki68-hub/Deploying-Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/beanmalaki68-hub/AD-NSGs-and-Inspecting-Network-Protocols-)
+  - [Group Policy and Managing Accoutns](https://github.com/beanmalaki68-hub/Group-Policy-and-Managing-Accounts)
 
 <h2>🤳Connect with me:</h2>
 
