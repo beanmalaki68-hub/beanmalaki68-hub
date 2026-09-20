@@ -7,6 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/beanmalaki68-hub/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Preparing Active Directory infrastructure within Cloud (Azure)](https://github.com/beanmalaki68-hub/Configuring-Active-Directory-within-Azure)
+  - [Deploying Active Diretory]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/beanmalaki68-hub/AD-NSGs-and-Inspecting-Network-Protocols-)
 
 <h2>🤳Connect with me:</h2>
