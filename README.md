@@ -8,7 +8,7 @@ I’m always looking for the next opportunity to learn, take on a challenge, and
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/beanmalaki68-hub/osTicket-Prerequisites-and-Installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/beanmalaki68-hub/osTicket-Ticket-Lifecycle-Examples)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure & Active Diretory</b>
   - [Preparing Active Directory infrastructure within Cloud (Azure)](https://github.com/beanmalaki68-hub/Configuring-Active-Directory-within-Azure)
   - [Deploying Active Diretory](https://github.com/beanmalaki68-hub/Deploying-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/beanmalaki68-hub/AD-NSGs-and-Inspecting-Network-Protocols-)
