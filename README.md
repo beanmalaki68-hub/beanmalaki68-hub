@@ -9,10 +9,10 @@ I’m always looking for the next opportunity to learn, take on a challenge, and
   - [osTicket: Prerequisites and Installation](https://github.com/beanmalaki68-hub/osTicket-Prerequisites-and-Installation)
   - [osTicket: osTicket Set-Up](https://github.com/beanmalaki68-hub/osTicket-SetUp)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/beanmalaki68-hub/osTicket-Ticket-Lifecycle-Examples)
-- <b>Microsoft Azure & Active Diretory</b>
+- <b>Microsoft Azure & Active Directory</b>
   - [Preparing Active Directory infrastructure within Cloud (Azure)](https://github.com/beanmalaki68-hub/Configuring-Active-Directory-within-Azure)
-  - [Deploying Active Diretory](https://github.com/beanmalaki68-hub/Deploying-Active-Directory)
-  - [Group Policy and Managing Accoutns](https://github.com/beanmalaki68-hub/Group-Policy-and-Managing-Accounts)
+  - [Deploying Active Directory](https://github.com/beanmalaki68-hub/Deploying-Active-Directory)
+  - [Active Directory Lab](https://github.com/beanmalaki68-hub/Group-Policy-and-Managing-Accounts)
 
 <h2>🤳Connect with me:</h2>
 
