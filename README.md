@@ -6,7 +6,6 @@ I’m always looking for the next opportunity to learn, take on a challenge, and
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/beanmalaki68-hub/osTicket-Prerequisites-and-Installation)
   - [osTicket: osTicket Set-Up](https://github.com/beanmalaki68-hub/osTicket-SetUp)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/beanmalaki68-hub/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure & Active Directory</b>
